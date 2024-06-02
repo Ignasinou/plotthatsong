@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ignasinou/plotthatsong/assets/plotthatsong.jpeg" width="200px">
+<img src="assets/plotthatsong.jpeg" width="200px">
 
 # dasp
 
